@@ -1,4 +1,4 @@
-📊 Análise de Dados de Recursos Humanos com Power BI
+## 📊 Análise de Dados de Recursos Humanos com Power BI
 📌 Sobre o projeto
 
 Este projeto foi desenvolvido durante o curso da Data Science Academy com o objetivo de aplicar técnicas de análise de dados e construção de dashboards no Power BI.
@@ -9,7 +9,7 @@ O dashboard apresenta indicadores de Recursos Humanos (RH), permitindo analisar 
 
 ![Dashboard](Dashboard_RH.png)
 
-📈 Indicadores apresentados
+## 📈 Indicadores apresentados
 * Total de funcionários
 * Distribuição por gênero
 * Percentual de funcionários por gênero
@@ -20,7 +20,7 @@ O dashboard apresenta indicadores de Recursos Humanos (RH), permitindo analisar 
 * Total de funcionários por função
 
 
-🛠️ Ferramentas utilizadas
+## 🛠️ Ferramentas utilizadas
 * Power BI
 * Power Query
 * Modelagem de Dados
@@ -28,6 +28,6 @@ O dashboard apresenta indicadores de Recursos Humanos (RH), permitindo analisar 
 * Visualização de Dados
 
 
-🎯 Objetivo
+## 🎯 Objetivo
 
 * Desenvolver um dashboard interativo que permita visualizar indicadores de RH de forma clara, auxiliando na análise dos dados e apoiando a tomada de decisão.
