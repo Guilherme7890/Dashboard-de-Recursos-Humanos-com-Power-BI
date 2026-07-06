@@ -8,7 +8,7 @@ O dashboard apresenta indicadores de Recursos Humanos (RH), permitindo analisar 
 
 ## 📷 Dashboard
 
-![Dashboard](Dashbord_RH.png)
+![Dashboard](Dashboar_RH.png)
 
 
 📈 Indicadores apresentados
